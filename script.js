@@ -1,8 +1,8 @@
 document.addEventListener('DOMContentLoaded', () => {
-    // Example data, more updates can be added easily
-    addUpdate('New Feature: User Profiles', 'We\'ve added user profiles to enhance your personalized experience on Dupuis.lol.');
-    addUpdate('Bug Fix: Login Issues', 'Resolved an issue causing unexpected logouts for some users.');
-    addUpdate('UI Update: Enhanced Design', 'Refined the user interface for a more modern and sleek experience.');
+    // Add initial updates
+    addUpdate('New Feature: User Profiles', 'Introducing user profiles for a more personalized experience on Dupuis.lol.');
+    addUpdate('Bug Fix: Login Stability', 'Fixed an issue causing users to be logged out unexpectedly.');
+    addUpdate('UI Overhaul: Sleek Design', 'The user interface has been refreshed with a modern, sleek design.');
 });
 
 /**
