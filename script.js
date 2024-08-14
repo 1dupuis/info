@@ -1,8 +1,8 @@
 document.addEventListener('DOMContentLoaded', () => {
     // Add initial updates
-    addUpdate('New Feature: User Profiles', 'Introducing user profiles for a more personalized experience on Dupuis.lol.');
-    addUpdate('Bug Fix: Login Stability', 'Fixed an issue causing users to be logged out unexpectedly.');
-    addUpdate('UI Overhaul: Sleek Design', 'The user interface has been refreshed with a modern, sleek design.');
+    addUpdate('Added Game', 'A new game has been added to Dupuis.lol, providing an engaging way to learn and explore.');
+    addUpdate('Added APIs (Translation, YouTube)', 'New APIs for translation and YouTube integration have been added, enhancing the overall functionality.');
+    addUpdate('Added Additional Resources', 'New resources have been added, including events, translation tools, and YouTube videos.');
 });
 
 /**
