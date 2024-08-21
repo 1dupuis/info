@@ -1,8 +1,6 @@
 document.addEventListener('DOMContentLoaded', () => {
     // Add initial updates
-    addUpdate('Added Game', 'A new game has been added to Dupuis.lol, providing an engaging way to learn and explore.');
-    addUpdate('Added APIs (Translation, YouTube)', 'New APIs for translation and YouTube integration have been added, enhancing the overall functionality.');
-    addUpdate('Added Additional Resources', 'New resources have been added, including events, translation tools, and YouTube videos.');
+    addUpdate('Coming Soon', 'Information about dupuis.lol soon');
 });
 
 /**
